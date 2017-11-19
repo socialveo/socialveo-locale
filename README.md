@@ -1,0 +1,2 @@
+# socialveo-locale
+Socialveo Locale
